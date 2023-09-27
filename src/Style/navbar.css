@@ -47,7 +47,6 @@ ul li {
 ul li:hover {
   color: black;
   border-radius: 10px;
-  /* padding: 0px 10px; */
   --tw-border-opacity: 0;
   background-color: hsl(var(--bc) / var(--tw-bg-opacity));
   --tw-bg-opacity: 0.2;
@@ -71,7 +70,6 @@ button {
 
   .mobile-menu-icon:hover {
     border-radius: 30px;
-    /* padding: 0px 10px; */
     --tw-border-opacity: 0;
     background-color: hsl(var(--bc) / var(--tw-bg-opacity));
     --tw-bg-opacity: 0.2;
@@ -82,7 +80,6 @@ button {
   }
   .nav-links-mobile {
     position: absolute;
-    border: 1px solid red;
     display: block;
     list-style: none;
     box-shadow: rgba(50, 50, 93, 0, 0.23) 0 30px 30px -20px;
